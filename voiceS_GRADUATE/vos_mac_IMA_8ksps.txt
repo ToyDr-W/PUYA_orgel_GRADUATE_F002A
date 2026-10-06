@@ -1,0 +1,4 @@
+	vos_mac(0x000000,0x0f9059,8000)	//1:TABIDACHINOHINI.wav
+	vos_mac(0x0f9059,0x0d4e39,8000)	//2:BELIEVE.wav
+	vos_mac(0x1cde92,0x064960,8000)	//3:YUMENOSEKAIWO.wav
+	vos_mac(0x2327f2,0x10d87f,8000)	//4:SAKURANOAME.wav
