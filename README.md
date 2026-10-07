@@ -13,7 +13,7 @@
 
 詳しくは、おもちゃ修理「電子カルテ」（ToyDr.わたなべの個人ブログ）を、ご参照ください。
 
-<a href="/charts/archive/527" target="_blank">291004 <span style="color:#0000FF;">ADPCMで音声再生</span>、基板レイアウトの練習 → <span style="color:#FF0000;">コチラ</span> です。</a>
+<a href="/charts/archive/527" target="_blank">291004 ADPCMで音声再生、基板レイアウトの練習 → コチラ です。</a>
 
 以下に、プログラムやコードに関する記述を、抜粋します。
 =====
