@@ -12,4 +12,4 @@
 
 お手数をおかけしますが、以下のリンクから解説ページへ移動してご覧ください。
 
-👉 [【重要】電子オルゴールの解説・回路図ページはこちら（Wikiへジャンプ）]([https://github.com](https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/wiki/PUYA%E9%9B%BB%E5%AD%90%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB%E8%A7%A3%E8%AA%AC%E3%83%BB%E5%9B%9E%E8%B7%AF%E5%9B%B3))
+👉 [【重要】電子オルゴールの解説・回路図ページはこちら（Wikiへジャンプ）][([https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/wiki/PUYA%E9%9B%BB%E5%AD%90%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB%E8%A7%A3%E8%AA%AC%E3%83%BB%E5%9B%9E%E8%B7%AF%E5%9B%B3])
