@@ -12,8 +12,8 @@
 3. お手持ちの書き込み器（DAP-Link ST-Link WCH-LinkEなど）を使ってマイコンに書き込みます。
 
 詳しくは、おもちゃ修理「電子カルテ」（ToyDr.わたなべの個人ブログ）を、ご参照ください。
-<a href="/charts/archive/527" target="_blank">291004 <strong><span style="color:#0000FF;">ADPCMで音声再生</span></strong>、基板レイアウトの練習 → <strong><span style="color:#FF0000;">コチラ</span></strong> です。</a>
+<a href="/charts/archive/527" target="_blank">291004 <span style="color:#0000FF;">ADPCMで音声再生</span>、基板レイアウトの練習 → <span style="color:#FF0000;">コチラ</span> です。</a>
 以下に、プログラムやコードに関する記述を、抜粋します。
 =====
-
+ああああああああああああああああああああああああああああああああああああああ
 =====
