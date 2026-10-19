@@ -19,4 +19,4 @@ GitHub上での視認性とアクセス性が良くないので、専用の**Wik
 
 お手数をおかけしますが、以下のリンクから解説ページへ移動してご覧ください。
 
-👉<a href="https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/wiki/PUYA電子オルゴール解説・回路図" target="_blank">📖 PUYA電子オルゴール解説・回路図（Wikiページ）へ移動する</a>
+👉<a href="https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/wiki/Home" target="_blank">📖 PUYA電子オルゴール解説・回路図（Wikiページ）へ移動する</a>
