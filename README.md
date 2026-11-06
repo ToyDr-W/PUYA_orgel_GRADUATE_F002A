@@ -15,7 +15,16 @@ GitHub上での視認性とアクセス性が良くないので、専用の**Wik
 本プログラム（PUYA_orgelシリーズ）を活用し、おもちゃのマイコン換装やオルゴール化による修理（蘇生）に成功しましたら、ぜひ知見をご共有ください！
 皆様が残した1つのカルテが、全国の同志の「次の臨床」を支える大きな力になります。
 
-👉 **[おもちゃ修理・マイコン換装 報告フォームからカルテを投稿する](https://github.com)**
+#### 👉 **[おもちゃ修理・マイコン換装 報告フォームからカルテを投稿する](https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/issues)**
+（Issues画面右上の「New issue」ボタンをクリックし、報告フォームを選択）
+<p align="center">
+  <br>
+  <a href="https://youtu.be/FwJ6YM8uWrc222">
+<img width="45%" alt="261004_SNOW_MIKU" src="https://github.com/user-attachments/assets/acd4ddbc-037a-4638-8822-6f3d534f3b81" />
+  <br>
+       <em>▶️ YouTubeで動作確認動画を再生する ↗</em>
+  </a>
+</p>
 
 ---
 
