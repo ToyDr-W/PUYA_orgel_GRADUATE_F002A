@@ -14,6 +14,11 @@
 
 👉<a href="https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/wiki/Home" target="_blank">📖 PUYA電子オルゴール解説・回路図（Wikiページ）へ移動する</a>
 
+### 📥 データのダウンロード方法
+最新の回路図およびプログラム一式をダウンロードするには、 リポジトリ右上にある緑色の **`[ <> Code ]`** ボタンをクリックし、メニューの一番下にある **`Download ZIP`** から一括ダウンロードできます。
+若しくは、[ここをクリックしてください。 ⬇️](https://github.com/ToyDr-W/PUYA_orgel_GRADUATE_F002A/archive/refs/heads/main.zip)
+ダウンロード（42.3 MBのZIPファイル）が直ちに開始されます。
+
 ---
 
 ### 🛠️ 現役ドクターの皆様へ：修理報告・カルテ募集中！
