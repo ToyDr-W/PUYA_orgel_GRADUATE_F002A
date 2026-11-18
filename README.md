@@ -10,7 +10,7 @@
 <p align="center">
   <br>
   <a href="https://youtu.be/FwJ6YM8uWrc222">
-<img width="45%" alt="261004_SNOW_MIKU" src="https://github.com/user-attachments/assets/acd4ddbc-037a-4638-8822-6f3d534f3b81" />
+<img width="40%" alt="261004_SNOW_MIKU" src="https://github.com/user-attachments/assets/acd4ddbc-037a-4638-8822-6f3d534f3b81" />
   <br>
        <em>▶️ YouTubeで動作確認動画を再生する ↗</em>
   </a>
